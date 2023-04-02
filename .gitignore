@@ -6,8 +6,8 @@
 /out-tsc
 /bazel-out
 
-/.vscode
-/.firebase
+.vscode/
+.firebase/
 
 # Node
 /node_modules
